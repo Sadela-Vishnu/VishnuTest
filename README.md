@@ -3,7 +3,7 @@
 1Q. total web development=front end development+backend development.
 
 2Q.HTML tags are used to define the content and structure of a web page. They are enclosed in angle brackets and are composed of a tag name and attributes.there are mainly three types.
-Formatting tags: The tags are used to format text on a web page. Examples include <b> for bold text, <i> for italic text,<u> for underlined text, <s> for strikethrough text,  <sub>for subscript text, and <sup> for superscript text.
+Formatting tags: The tags are used to format text on a web page. Examples include <b> for bold text, <i> for italic text,<u> for underlined text.
 
 Structural tags: These tags are used to define the structure of a web page. Examples include <html>, <head>,<body>,<article>.
 
