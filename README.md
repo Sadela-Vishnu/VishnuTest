@@ -6,23 +6,12 @@
 Formatting tags: The tags are used to format text on a web page. Examples include <b> for bold text, <i> for italic text,<u> for underlined text, <s> for strikethrough text,  <sub>for subscript text, and <sup> for superscript text.
 
 Structural tags: These tags are used to define the structure of a web page. Examples include <html>, <head>,<body>,<article>.
-Ex:<!DOCTYPE html>
-<html>
-  <head>
-    <title>Page Title</title>
-  </head>
-  <body>
-    <h1>This is a Heading</h1>
-    <p>This is a paragraph.</p>
-  </body>
-</html>
+
 Media tags: These tags are used to embed media content such as images, audio files, and videos into a web page.
  Examples include <image>,<audio>and <video>.
 Copy
 
-Media tag example:
 
-Ex:<img src=image.jpg” alt=”image description”.
 
 3Q. React is a very popular JavaScript library for its performance. It smartly does the work when it comes to handling page updates and data binding. But there are many scenarios behind that performance. Virtual DOM is one of them. When there is a change in UI then the DOM updates and the UI must be re-render. for virtual DOM  refresh is not required as we saw in youtube notification example.
 
